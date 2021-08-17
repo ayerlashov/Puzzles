@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountIslands", "CountIslands\CountIslands.csproj", "{E13935C2-6DFB-45F9-8765-93084C186379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountIslandsTests", "CountIslandsTests\CountIslandsTests.csproj", "{AE5BA5F2-7D82-48EB-B2CC-160B0409B035}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E13935C2-6DFB-45F9-8765-93084C186379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E13935C2-6DFB-45F9-8765-93084C186379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E13935C2-6DFB-45F9-8765-93084C186379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E13935C2-6DFB-45F9-8765-93084C186379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE5BA5F2-7D82-48EB-B2CC-160B0409B035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE5BA5F2-7D82-48EB-B2CC-160B0409B035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE5BA5F2-7D82-48EB-B2CC-160B0409B035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE5BA5F2-7D82-48EB-B2CC-160B0409B035}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DD9CB90-B82A-48AA-85E2-C0EE18C6AAFA}
+	EndGlobalSection
+EndGlobal
